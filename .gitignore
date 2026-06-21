@@ -1,0 +1,10 @@
+# Generated SQLite database (rebuilt by run.py)
+*.db
+
+# Generated BI exports (rebuilt by export_bi.py)
+# (CSV outputs are committed under bi_exports/ for convenience)
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
