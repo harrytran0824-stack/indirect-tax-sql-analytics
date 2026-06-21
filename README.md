@@ -8,6 +8,8 @@ certificates, economic-nexus crossings, and return reconciliation gaps.
 Built in **SQLite** (zero install — a single file database). Every query runs
 as-is and has been verified end to end.
 
+**▶ Live demo (runs in your browser, no install):** https://harrytran0824-stack.github.io/indirect-tax-sql-analytics/
+
 > Built to map directly to the EY *Indirect Tax Technology & Transformation*
 > Senior role: designing databases, data acquisition/transformation, and tax
 > data analytics & reporting.
